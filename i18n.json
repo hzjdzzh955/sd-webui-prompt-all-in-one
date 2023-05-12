@@ -8,7 +8,7 @@
                 "need_api_key": "需要API Key",
                 "dont_need_api_key": "不需要API Key（不稳定）",
                 "prompt": "提示词",
-                "negative_prompt": "反向提示词",
+                "negative_prompt": "反向词",
                 "txt2img": "文生图",
                 "img2img": "图生图",
                 "please_enter_new_keyword": "请输入新关键词",
